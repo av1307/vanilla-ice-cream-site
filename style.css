@@ -1,1 +1,39 @@
+body {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    background-color: #fdf6e3; /* soft vanilla */
+    color: #4b3832; /* warm brown */
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Comic Sans MS", "Trebuchet MS", cursive;
+    font-size: 3rem;
+    color: #d8a47f; /* creamy caramel */
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #6f4e37; /* deeper brown */
+    margin-top: 30px;
+}
+
+p {
+    max-width: 700px;
+    margin: 0 auto 20px auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #fff8dc; /* light cream */
+    margin: 8px auto;
+    padding: 8px;
+    width: 300px;
+    border-radius: 20px;
+}
 
